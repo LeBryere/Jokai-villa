@@ -8,7 +8,7 @@
 
 ## Preview
 
-[![Resume Preview](preview.png)](https://lebryere.github.io/Jokai-villa/)
+[![Resume Preview](preview.jpg)](https://lebryere.github.io/Jokai-villa/)
 
 **[View Live Preview](https://lebryere.github.io/Jokai-villa/)**
 
