@@ -2984,8 +2984,11 @@ Copyright (c) 2015 Daniel Eden
 }
 
 .leb__offers .leb__container .content .btn-form-1-submit {
-  min-width: 130px;
-  height: 40px;
+    min-width: 130px;
+    height: 36px;
+    margin-top: -.5rem;
+    padding-top: 3px;
+    font-size: calc(.3vw + 10px);
 }
 
 @media (min-width: 1201px) {
