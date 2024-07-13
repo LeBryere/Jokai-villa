@@ -2976,6 +2976,11 @@ Copyright (c) 2015 Daniel Eden
   opacity: 0;
 }
 
+.leb__offers .leb__container .animate-img .img {
+   filter: drop-shadow(0px 4px 8px #000);
+    -webkit-filter: drop-shadow(0px 4px 8px #000);
+}
+
 .leb__offers .leb__container .animate-img .img a img {
   width: 100%;
 }
